@@ -1,5 +1,6 @@
 # Parallel_Jacobi-algorithm_Eigen-values
 1.To compile and run the jacobi_eigen_values.cpp 
+
 -> mpiCC jacobi_eigen_values.cpp
 -> mpirun -n <number of processors> a.out <size of the matrix>
  
